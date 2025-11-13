@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "service1",
+    "service2"
+]
+resolver = "2"

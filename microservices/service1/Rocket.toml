@@ -1,0 +1,7 @@
+[default.databases.postgres]
+url = "postgres://postgres:password@postgres1:5432/lekovi_db"
+pool_size = 5
+
+[default]
+port = 8000
+address = "0.0.0.0"

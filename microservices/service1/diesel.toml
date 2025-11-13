@@ -1,0 +1,8 @@
+[print_schema]
+file = "src/schema.rs"
+
+[migrations_directory]
+dir = "migrations"
+
+# [database]
+# url = "postgres://postgres:password@localhost:5432/lekovi_db"
